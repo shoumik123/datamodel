@@ -1,4 +1,70 @@
-{ 
- "name" : "travelName",
-  "trip" : "Trip1"
+{
+  "trips": [
+    {
+      "name": "Atlanta Visit",
+      "picture": "",
+      "date": "11/3/2025",
+      "members": [
+        {
+          "name": "Mahua",
+          "relationship": "wife",
+          "age": 30
+        },
+        {
+          "name": "Sid",
+          "relationship": "Son",
+          "age": 17
+        },
+        {
+          "name": "Myra",
+          "relationship": "Daughter",
+          "age": 13
+        }
+      ]
+    },
+    {
+      "name": "DFW Visit",
+      "picture": "",
+      "date": "10/3/2025",
+      "members": [
+        {
+          "name": "Mahua",
+          "relationship": "wife",
+          "age": 30
+        },
+        {
+          "name": "Sid",
+          "relationship": "Son",
+          "age": 17
+        },
+        {
+          "name": "Myra",
+          "relationship": "Daughter",
+          "age": 13
+        }
+      ]
+    },
+    {
+      "name": "Colarado Visit",
+      "picture": "",
+      "date": "9/3/2025",
+      "members": [
+        {
+          "name": "Mahua",
+          "relationship": "wife",
+          "age": 30
+        },
+        {
+          "name": "Sid",
+          "relationship": "Son",
+          "age": 17
+        },
+        {
+          "name": "Myra",
+          "relationship": "Daughter",
+          "age": 13
+        }
+      ]
+    }
+  ]
 }
