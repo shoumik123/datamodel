@@ -2,7 +2,7 @@
   "trips": [
     {
       "name": "Atlanta Visit",
-      "picture": "",
+      "picture": "https://github.com/shoumik123/datamodel/blob/main/download.jpeg",
       "date": "11/3/2025",
       "members": [
         {
@@ -24,7 +24,7 @@
     },
     {
       "name": "DFW Visit",
-      "picture": "",
+      "picture": "https://github.com/shoumik123/datamodel/blob/main/download.jpeg",
       "date": "10/3/2025",
       "members": [
         {
@@ -46,7 +46,73 @@
     },
     {
       "name": "Colarado Visit",
-      "picture": "",
+      "picture": "https://github.com/shoumik123/datamodel/blob/main/download.jpeg",
+      "date": "9/3/2025",
+      "members": [
+        {
+          "name": "Mahua",
+          "relationship": "wife",
+          "age": 30
+        },
+        {
+          "name": "Sid",
+          "relationship": "Son",
+          "age": 17
+        },
+        {
+          "name": "Myra",
+          "relationship": "Daughter",
+          "age": 13
+        }
+      ]
+    },
+    {
+      "name": "Monterrey Visit",
+      "picture": "https://github.com/shoumik123/datamodel/blob/main/download.jpeg",
+      "date": "9/3/2025",
+      "members": [
+        {
+          "name": "Mahua",
+          "relationship": "wife",
+          "age": 30
+        },
+        {
+          "name": "Sid",
+          "relationship": "Son",
+          "age": 17
+        },
+        {
+          "name": "Myra",
+          "relationship": "Daughter",
+          "age": 13
+        }
+      ]
+    },
+    {
+      "name": "India Visit",
+      "picture": "https://github.com/shoumik123/datamodel/blob/main/download.jpeg",
+      "date": "9/3/2025",
+      "members": [
+        {
+          "name": "Mahua",
+          "relationship": "wife",
+          "age": 30
+        },
+        {
+          "name": "Sid",
+          "relationship": "Son",
+          "age": 17
+        },
+        {
+          "name": "Myra",
+          "relationship": "Daughter",
+          "age": 13
+        }
+      ]
+    },
+    {
+      "name": "Hosutan Visit",
+      "picture": "https://github.com/shoumik123/datamodel/blob/main/download.jpeg",
       "date": "9/3/2025",
       "members": [
         {
