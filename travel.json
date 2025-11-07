@@ -64,6 +64,20 @@
           "relationship": "Daughter",
           "age": 13
         }
+      ],
+      "vistedPlaces": [
+        {
+          "id" : "v1",
+          "location": "CNN News Center",
+          "image": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/cnn.jpeg",
+          "dateTime": ""
+        },
+        {
+          "id" : "v2",
+          "location": "Coke Factory",
+          "image": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/coke.jpeg",
+          "dateTime": ""
+        }
       ]
     },
     {
@@ -89,6 +103,20 @@
           "name": "Myra",
           "relationship": "Daughter",
           "age": 13
+        }
+      ],
+      "vistedPlaces": [
+        {
+          "id" : "v1",
+          "location": "CNN News Center",
+          "image": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/cnn.jpeg",
+          "dateTime": ""
+        },
+        {
+          "id" : "v2",
+          "location": "Coke Factory",
+          "image": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/coke.jpeg",
+          "dateTime": ""
         }
       ]
     },
@@ -116,6 +144,20 @@
           "relationship": "Daughter",
           "age": 13
         }
+      ],
+      "vistedPlaces": [
+        {
+          "id" : "v1",
+          "location": "CNN News Center",
+          "image": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/cnn.jpeg",
+          "dateTime": ""
+        },
+        {
+          "id" : "v2",
+          "location": "Coke Factory",
+          "image": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/coke.jpeg",
+          "dateTime": ""
+        }
       ]
     },
     {
@@ -142,6 +184,20 @@
           "relationship": "Daughter",
           "age": 13
         }
+      ],
+      "vistedPlaces": [
+        {
+          "id" : "v1",
+          "location": "CNN News Center",
+          "image": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/cnn.jpeg",
+          "dateTime": ""
+        },
+        {
+          "id" : "v2",
+          "location": "Coke Factory",
+          "image": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/coke.jpeg",
+          "dateTime": ""
+        }
       ]
     },
     {
@@ -167,6 +223,20 @@
           "name": "Myra",
           "relationship": "Daughter",
           "age": 13
+        }
+      ],
+      "vistedPlaces": [
+        {
+          "id" : "v1",
+          "location": "CNN News Center",
+          "image": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/cnn.jpeg",
+          "dateTime": ""
+        },
+        {
+          "id" : "v2",
+          "location": "Coke Factory",
+          "image": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/coke.jpeg",
+          "dateTime": ""
         }
       ]
     }
