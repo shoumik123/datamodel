@@ -7,16 +7,19 @@
       "id": "1",
       "members": [
         {
+          "id" : "1",
           "name": "Mahua",
           "relationship": "wife",
           "age": 30
         },
         {
+          "id" : "2",
           "name": "Sid",
           "relationship": "Son",
           "age": 17
         },
         {
+          "id" : "3",
           "name": "Myra",
           "relationship": "Daughter",
           "age": 13
@@ -24,11 +27,13 @@
       ],
       "vistedPlaces": [
         {
+          "id" : "v1",
           "location": "CNN News Center",
           "image": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/cnn.jpeg",
           "dateTime": ""
         },
         {
+          "id" : "v2",
           "location": "Coke Factory",
           "image": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/coke.jpeg",
           "dateTime": ""
@@ -42,16 +47,19 @@
       "id": "2",
       "members": [
         {
+          "id" : "1",
           "name": "Mahua",
           "relationship": "wife",
           "age": 30
         },
         {
+          "id" : "2",
           "name": "Sid",
           "relationship": "Son",
           "age": 17
         },
         {
+          "id" : "3",
           "name": "Myra",
           "relationship": "Daughter",
           "age": 13
@@ -65,16 +73,19 @@
       "id": "3",
       "members": [
         {
+          "id" : "1",
           "name": "Mahua",
           "relationship": "wife",
           "age": 30
         },
         {
+          "id" : "2",
           "name": "Sid",
           "relationship": "Son",
           "age": 17
         },
         {
+          "id" : "3",
           "name": "Myra",
           "relationship": "Daughter",
           "age": 13
@@ -88,16 +99,19 @@
       "id": "4",
       "members": [
         {
+          "id" : "1",
           "name": "Mahua",
           "relationship": "wife",
           "age": 30
         },
         {
+          "id" : "2",
           "name": "Sid",
           "relationship": "Son",
           "age": 17
         },
         {
+          "id" : "3",
           "name": "Myra",
           "relationship": "Daughter",
           "age": 13
@@ -111,16 +125,19 @@
       "id": "5",
       "members": [
         {
+          "id" : "1",
           "name": "Mahua",
           "relationship": "wife",
           "age": 30
         },
         {
+          "id" : "2",
           "name": "Sid",
           "relationship": "Son",
           "age": 17
         },
         {
+          "id" : "3",
           "name": "Myra",
           "relationship": "Daughter",
           "age": 13
@@ -134,16 +151,19 @@
       "id": "6",
       "members": [
         {
+          "id" : "1",
           "name": "Mahua",
           "relationship": "wife",
           "age": 30
         },
         {
+          "id" : "2",
           "name": "Sid",
           "relationship": "Son",
           "age": 17
         },
         {
+          "id" : "3",
           "name": "Myra",
           "relationship": "Daughter",
           "age": 13
