@@ -2,7 +2,7 @@
   "trips": [
     {
       "name": "Atlanta Visit",
-      "picture": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/download.jpeg",
+      "picture": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/travel_airplane_folder_file_10327.png",
       "date": "11/3/2025",
       "id": "1",
       "members": [
@@ -42,7 +42,7 @@
     },
     {
       "name": "DFW Visit",
-      "picture": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/download.jpeg",
+      "picture": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/travel_airplane_folder_file_10327.png",
       "date": "10/3/2025",
       "id": "2",
       "members": [
@@ -82,7 +82,7 @@
     },
     {
       "name": "Colarado Visit",
-      "picture": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/download.jpeg",
+      "picture": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/travel_airplane_folder_file_10327.png",
       "date": "9/3/2025",
       "id": "3",
       "members": [
@@ -122,7 +122,7 @@
     },
     {
       "name": "Monterrey Visit",
-      "picture": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/download.jpeg",
+      "picture": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/travel_airplane_folder_file_10327.png",
       "date": "9/3/2025",
       "id": "4",
       "members": [
@@ -162,7 +162,7 @@
     },
     {
       "name": "India Visit",
-      "picture": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/download.jpeg",
+      "picture": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/travel_airplane_folder_file_10327.png",
       "date": "9/3/2025",
       "id": "5",
       "members": [
@@ -202,7 +202,7 @@
     },
     {
       "name": "Hosutan Visit",
-      "picture": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/download.jpeg",
+      "picture": "https://raw.githubusercontent.com/shoumik123/datamodel/refs/heads/main/travel_airplane_folder_file_10327.png",
       "date": "9/3/2025",
       "id": "6",
       "members": [
