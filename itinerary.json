@@ -1,0 +1,127 @@
+{
+  "tripName": "Explorer's Guide to Tokyo",
+  "startDate": "2025-11-20",
+  "endDate": "2025-11-23",
+  "destination": "Tokyo, Japan",
+  "overview": "A four-day immersion into the vibrant culture, history, and modernity of Tokyo.",
+  "days": [
+    {
+      "day": 1,
+      "date": "2025-11-20",
+      "location": "Shibuya & Shinjuku",
+      "activities": [
+        {
+          "time": "14:00",
+          "activityName": "Hotel Check-in",
+          "location": "Shibuya Excel Hotel Tokyu",
+          "details": "Check into the hotel and drop off luggage. Refresh before heading out."
+        },
+        {
+          "time": "16:00",
+          "activityName": "Explore Shibuya Crossing",
+          "location": "Shibuya Crossing, Tokyo",
+          "details": "Experience the world's busiest pedestrian crossing. Great spot for photos."
+        },
+        {
+          "time": "19:30",
+          "activityName": "Dinner in Omoide Yokocho",
+          "location": "Omoide Yokocho, Shinjuku",
+          "details": "Enjoy yakitori and local atmosphere in a traditional 'Piss Alley' area."
+        },
+        {
+          "time": "21:30",
+          "activityName": "Shinjuku Golden Gai Bar hopping",
+          "location": "Golden Gai, Shinjuku",
+          "details": "Visit small, unique bars in the famous Golden Gai area."
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2025-11-21",
+      "location": "Asakusa & Ueno",
+      "activities": [
+        {
+          "time": "09:00",
+          "activityName": "Visit Senso-ji Temple",
+          "location": "Asakusa, Tokyo",
+          "details": "Explore Tokyo's oldest temple. Walk through Nakamise-dori shopping street."
+        },
+        {
+          "time": "12:30",
+          "activityName": "Lunch: Tempura",
+          "location": "Daikokuya Tempura, Asakusa",
+          "details": "Enjoy traditional tempura set for lunch."
+        },
+        {
+          "time": "15:00",
+          "activityName": "Ueno Park & Museums",
+          "location": "Ueno Park, Tokyo",
+          "details": "Stroll through the park and visit the Tokyo National Museum."
+        },
+        {
+          "time": "18:30",
+          "activityName": "Dinner: Sushi",
+          "location": "Ueno area local restaurant",
+          "details": "Casual dinner with fresh sushi."
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "date": "2025-11-22",
+      "location": "Harajuku & Ginza",
+      "activities": [
+        {
+          "time": "10:00",
+          "activityName": "Meiji Jingu Shrine Visit",
+          "location": "Meiji Jingu, Harajuku",
+          "details": "Walk through the forest to the serene shrine dedicated to Emperor Meiji."
+        },
+        {
+          "time": "12:00",
+          "activityName": "Explore Takeshita Street",
+          "location": "Takeshita Street, Harajuku",
+          "details": "Experience the center of Japanese youth culture and fashion. Grab a crepe."
+        },
+        {
+          "time": "14:30",
+          "activityName": "Shopping in Ginza",
+          "location": "Ginza District, Tokyo",
+          "details": "High-end shopping and architecture viewing."
+        },
+        {
+          "time": "19:00",
+          "activityName": "Dinner: Fine Dining",
+          "location": "Ginza upscale restaurant",
+          "details": "Indulge in a sophisticated dining experience."
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "date": "2025-11-23",
+      "location": "Tsukiji & Departure",
+      "activities": [
+        {
+          "time": "08:00",
+          "activityName": "Tsukiji Outer Market Breakfast",
+          "location": "Tsukiji Outer Market, Tokyo",
+          "details": "Enjoy fresh seafood breakfast and explore the vibrant outer market."
+        },
+        {
+          "time": "11:00",
+          "activityName": "Hotel Check-out",
+          "location": "Shibuya Excel Hotel Tokyu",
+          "details": "Check out and collect luggage."
+        },
+        {
+          "time": "12:00",
+          "activityName": "Travel to Airport",
+          "location": "Narita International Airport (NRT)",
+          "details": "Take the Narita Express train for airport transfer."
+        }
+      ]
+    }
+  ]
+}
